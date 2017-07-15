@@ -14,9 +14,7 @@ import java.util.Map;
 /* ****************************************************************************************
  
 Please remove all bugs from the code below to get the following output:
-
 <pre>
-
 *******Order 1*******
 1 book: 13.74
 1 music CD: 16.49
